@@ -5,8 +5,12 @@
     <file url="file://$PROJECT_DIR$/01-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/01-provider" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/01-provider2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-consumer-web" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/02-consumer-zk" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-provider-web" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/02-provider-zk" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-consumer-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-provider-web" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
